@@ -1,0 +1,66 @@
+
+.react-tel-input {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    position: relative;
+    width: 30% !important;
+  }
+  
+
+  input.form-control{
+
+    /* background-color: red !important; */
+    padding-top: 10px;
+   
+  }
+
+
+  .react-tel-input .selected-flag {
+    position: relative;
+    width: 42px !important;
+    height: 100%;
+    padding: 0 0 0 8px;
+    border-radius: 3px 0 0 3px;
+    border: 1px solid #020202 !important;
+  }
+
+
+  @media screen and (max-width:1023px) {
+    .react-tel-input {
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+        position: relative;
+        width: 15% !important;
+      }
+  }
+
+  @media screen and (max-width:770px) {
+    .react-tel-input {
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+        position: relative;
+        width: 20% !important;
+      }
+  }
+
+  @media screen and (max-width:770px) {
+    .react-tel-input {
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+        position: relative;
+        width: 25% !important;
+      }
+  }
+
+  @media screen and (max-width:380px) {
+    .react-tel-input {
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+        position: relative;
+        width: 32% !important;
+      }
+  }
+
+
+   
+
